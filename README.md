@@ -18,7 +18,7 @@
 6. incorporate error handling into all processes in the system
 
 ### Software used:
-+Microsoft Visual Studio
++ Microsoft Visual Studio
 
 ### Language used:
-+ASP.Net
++ ASP.Net
